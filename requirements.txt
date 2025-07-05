@@ -16,3 +16,5 @@ setuptools>=65.5.0
 sqlparse==0.5.3
 urllib3==1.26.5
 zipp==1.0.0
+django-cors-headers==4.3.1
+
